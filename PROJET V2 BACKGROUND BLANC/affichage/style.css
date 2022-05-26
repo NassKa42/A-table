@@ -16,6 +16,7 @@ P {
   text-align: center;
   font-size: 2em;
 }
+
 .lesordres{
   background-color: rgb(245, 245, 245);
   position: absolute;
@@ -26,7 +27,6 @@ P {
   height: 40vh;
   background: rgb(245, 245, 245);
   border-radius: 1.375vh;
-  border-color: red;
   box-shadow: 1.375vh 1.375vh 2.0625vh rgba(0,0,0,0.05);
 }
 
@@ -38,7 +38,6 @@ P {
   width: 90vh;
   height: 40vh;
   border-radius: 1.375vh;
-  border-color: red;
   text-align: center;
 }
 
